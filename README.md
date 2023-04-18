@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnuSynth
+- 👋 Hi, I'm Abdyshev Amantay
 - 👀 I’m interested in iOS development.
 - 🌱 I’m currently learning algorithms
 - 📫 How to reach me:
